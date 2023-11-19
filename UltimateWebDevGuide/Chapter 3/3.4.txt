@@ -1,4 +1,0 @@
-<article>
-    <h2>How to Create Responsive Web Design</h2>
-    <p>In this tutorial, we'll explore the...</p>
-</article>

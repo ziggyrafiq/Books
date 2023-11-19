@@ -1,5 +1,0 @@
-if (typeof document.querySelector === "function") {
-    // Use querySelector
-} else {
-    // Fallback for older browsers
-}

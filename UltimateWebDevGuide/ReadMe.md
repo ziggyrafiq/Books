@@ -1,7 +1,11 @@
 # A Guide To Mastering HTML5 CSS3 and Javascript
-![Book Cover](book_cover.png)
+![A Guide To Mastering HTML5 CSS3 and Javascript by Ziggy Rafiq Book Cover](book_cover.png)
+
+## Source Code for This Book is coming soon
 
 Welcome to "A Guide To Mastering HTML5 CSS3 and Javascript: Web Experiences Using Cutting-Edge Tools." This book is your comprehensive guide to mastering the essential web development technologies and tools required to create modern, interactive, and responsive web experiences.
+
+
 
 ## Table of Contents
 
