@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rYPItm0F22PVewhHrgiKEMwd/qIQ8P3T/O3hqV0VptZ3kvndoWjh1H+K6fQOB/7k/bLHtcHijAXKZ66eYWGEEA==",
+  "dgSpecHash": "7wrj7h6PFuCKeQb8po9alZtMiMrHF9l3dQB8dJSVt9ReuN85s27E+trCE57psrdsxgYfstCW6E7jnQnx68L3xA==",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\DefiningGenerics\\DefiningGenerics.csproj",
+  "projectFilePath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\DefiningGenerics\\DefiningGenerics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

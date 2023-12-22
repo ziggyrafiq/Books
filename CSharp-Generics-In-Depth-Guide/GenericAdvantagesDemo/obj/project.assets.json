@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\GenericAdvantagesDemo\\GenericAdvantages.csproj",
+      "projectUniqueName": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\GenericAdvantagesDemo\\GenericAdvantages.csproj",
       "projectName": "GenericAdvantages",
-      "projectPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\GenericAdvantagesDemo\\GenericAdvantages.csproj",
+      "projectPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\GenericAdvantagesDemo\\GenericAdvantages.csproj",
       "packagesPath": "C:\\Users\\ziggy\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\GenericAdvantagesDemo\\obj\\",
+      "outputPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\GenericAdvantagesDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

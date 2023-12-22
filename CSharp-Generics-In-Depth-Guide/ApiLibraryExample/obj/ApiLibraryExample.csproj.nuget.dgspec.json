@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\ApiLibraryExample\\ApiLibraryExample.csproj": {}
+    "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\ApiLibraryExample\\ApiLibraryExample.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\ApiLibraryExample\\ApiLibraryExample.csproj": {
+    "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\ApiLibraryExample\\ApiLibraryExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\ApiLibraryExample\\ApiLibraryExample.csproj",
+        "projectUniqueName": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\ApiLibraryExample\\ApiLibraryExample.csproj",
         "projectName": "ApiLibraryExample",
-        "projectPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\ApiLibraryExample\\ApiLibraryExample.csproj",
+        "projectPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\ApiLibraryExample\\ApiLibraryExample.csproj",
         "packagesPath": "C:\\Users\\ziggy\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\ApiLibraryExample\\obj\\",
+        "outputPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\ApiLibraryExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

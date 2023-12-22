@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\CovariantDelegate\\CovariantDelegate.csproj",
+      "projectUniqueName": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\CovariantDelegate\\CovariantDelegate.csproj",
       "projectName": "CovariantDelegate",
-      "projectPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\CovariantDelegate\\CovariantDelegate.csproj",
+      "projectPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\CovariantDelegate\\CovariantDelegate.csproj",
       "packagesPath": "C:\\Users\\ziggy\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\CovariantDelegate\\obj\\",
+      "outputPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\CovariantDelegate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

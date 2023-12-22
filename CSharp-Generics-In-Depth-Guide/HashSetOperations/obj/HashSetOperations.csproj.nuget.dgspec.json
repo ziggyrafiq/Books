@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\HashSetOperations\\HashSetOperations.csproj": {}
+    "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\HashSetOperations\\HashSetOperations.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\HashSetOperations\\HashSetOperations.csproj": {
+    "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\HashSetOperations\\HashSetOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\HashSetOperations\\HashSetOperations.csproj",
+        "projectUniqueName": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\HashSetOperations\\HashSetOperations.csproj",
         "projectName": "HashSetOperations",
-        "projectPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\HashSetOperations\\HashSetOperations.csproj",
+        "projectPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\HashSetOperations\\HashSetOperations.csproj",
         "packagesPath": "C:\\Users\\ziggy\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\HashSetOperations\\obj\\",
+        "outputPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\HashSetOperations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\EventHandling\\EventHandling.csproj",
+      "projectUniqueName": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\EventHandling\\EventHandling.csproj",
       "projectName": "EventHandling",
-      "projectPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\EventHandling\\EventHandling.csproj",
+      "projectPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\EventHandling\\EventHandling.csproj",
       "packagesPath": "C:\\Users\\ziggy\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\EventHandling\\obj\\",
+      "outputPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\EventHandling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

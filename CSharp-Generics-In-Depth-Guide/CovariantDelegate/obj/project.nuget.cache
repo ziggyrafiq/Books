@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w18RLpvXvSmyhZYc3s8306pkXh2mc3wqEALStnUCHb4/oPqLG90ehuWi+9NnL5Pbi4bVyNWQVlvU7d/SlftufA==",
+  "dgSpecHash": "Jm1kwzMA9fDYnAmjacwVKFhP4AwxXfcCc+RUnOYRt3cuTYFXkkbIEU5p7MRxN4lWxvwkVO00ziM32p/3nVBOag==",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\CovariantDelegate\\CovariantDelegate.csproj",
+  "projectFilePath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\CovariantDelegate\\CovariantDelegate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\ReadOnlyRepositoryExample\\ReadOnlyRepositoryExample.csproj": {}
+    "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\ReadOnlyRepositoryExample\\ReadOnlyRepositoryExample.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\ReadOnlyRepositoryExample\\ReadOnlyRepositoryExample.csproj": {
+    "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\ReadOnlyRepositoryExample\\ReadOnlyRepositoryExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\ReadOnlyRepositoryExample\\ReadOnlyRepositoryExample.csproj",
+        "projectUniqueName": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\ReadOnlyRepositoryExample\\ReadOnlyRepositoryExample.csproj",
         "projectName": "ReadOnlyRepositoryExample",
-        "projectPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\ReadOnlyRepositoryExample\\ReadOnlyRepositoryExample.csproj",
+        "projectPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\ReadOnlyRepositoryExample\\ReadOnlyRepositoryExample.csproj",
         "packagesPath": "C:\\Users\\ziggy\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\ReadOnlyRepositoryExample\\obj\\",
+        "outputPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\ReadOnlyRepositoryExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\Contravariant\\Contravariant.csproj": {}
+    "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\Contravariant\\Contravariant.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\Contravariant\\Contravariant.csproj": {
+    "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\Contravariant\\Contravariant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\Contravariant\\Contravariant.csproj",
+        "projectUniqueName": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\Contravariant\\Contravariant.csproj",
         "projectName": "Contravariant",
-        "projectPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\Contravariant\\Contravariant.csproj",
+        "projectPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\Contravariant\\Contravariant.csproj",
         "packagesPath": "C:\\Users\\ziggy\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\Contravariant\\obj\\",
+        "outputPath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\Contravariant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

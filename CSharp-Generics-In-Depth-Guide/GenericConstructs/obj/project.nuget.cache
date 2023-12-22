@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "al0KnQX4Ttn3F6PHwUl9+/ZhPMRWv32ykzxGEyD8zKbo6A5Y0xFfFMXDza9G1mvbH0Ipg+vnmGy1fDdW/+N/3g==",
+  "dgSpecHash": "g0eEgIoO2aPoel3SUr10dbds6TqcycGNO1c9VyQvGkwvwPxwLR3yskF06HDXprUU0HUy0q4481hnht4MKhRr9A==",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\GenericConstructs\\GenericConstructs.csproj",
+  "projectFilePath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\GenericConstructs\\GenericConstructs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

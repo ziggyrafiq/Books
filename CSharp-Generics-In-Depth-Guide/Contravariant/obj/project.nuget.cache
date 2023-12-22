@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f3/v9o1fF7zOK9XVBlGohRrqQFlNiau/2uXMpwNyYgqSYIWuDU/aShRabUZz44nY9bNISGyhD9CrSqD0hskL6w==",
+  "dgSpecHash": "HGu2g2aP7vDHjq26tTY4loVNRnoRlS83TT3Rh4KQukVxbo70Ulb4OkaApa3HmfXNGcaNcy/YgYV+4VCARw1XwQ==",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\_Books to Complete Code\\CSharp-Generics-In-Depth-Guide\\Contravariant\\Contravariant.csproj",
+  "projectFilePath": "E:\\GitHub\\Books\\CSharp-Generics-In-Depth-Guide\\Contravariant\\Contravariant.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
